@@ -9,7 +9,7 @@ h1 {
   /* if you have a 70px navbar => height: calc(100vh - 70px); */
   background-size: cover !important;
   display: flex;
-  /*align-items: center;*/
+  align-items: center;
   justify-content: center;
 }
 .banner h1 {
@@ -28,8 +28,8 @@ h1 {
   margin-bottom: 20px;
 }
 .banner a {
-  color: white;
-  font-size: 20px;
+  color: #de8f6e;
+  font-size: 35px;
 }
 
 .padding {
